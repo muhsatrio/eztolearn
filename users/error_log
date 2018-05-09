@@ -1,0 +1,62 @@
+[28-Nov-2017 15:52:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[28-Nov-2017 15:52:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[28-Nov-2017 15:52:21 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[28-Nov-2017 15:52:27 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[28-Nov-2017 15:52:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[28-Nov-2017 15:52:27 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[28-Nov-2017 15:53:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[28-Nov-2017 15:53:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[28-Nov-2017 15:53:44 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[28-Nov-2017 15:54:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[28-Nov-2017 15:54:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[28-Nov-2017 15:54:02 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[28-Nov-2017 15:54:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[28-Nov-2017 15:54:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[28-Nov-2017 15:54:03 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[29-Nov-2017 07:26:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 07:26:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/materi.php on line 87
+[29-Nov-2017 07:26:45 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/materi.php on line 88
+[29-Nov-2017 07:26:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 07:26:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/materi.php on line 87
+[29-Nov-2017 07:26:46 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/materi.php on line 88
+[29-Nov-2017 07:26:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 07:26:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/materi.php on line 87
+[29-Nov-2017 07:26:48 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/materi.php on line 88
+[29-Nov-2017 09:05:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[29-Nov-2017 09:05:46 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[29-Nov-2017 09:05:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:05:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[29-Nov-2017 09:05:55 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[29-Nov-2017 09:06:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:06:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[29-Nov-2017 09:06:09 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[29-Nov-2017 09:06:15 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:06:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[29-Nov-2017 09:06:15 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[29-Nov-2017 09:06:42 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:06:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:06:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[29-Nov-2017 09:06:49 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[29-Nov-2017 09:07:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:07:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[29-Nov-2017 09:07:09 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[29-Nov-2017 09:07:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:07:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[29-Nov-2017 09:07:09 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[29-Nov-2017 09:07:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:07:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[29-Nov-2017 09:07:09 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[29-Nov-2017 09:09:16 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:09:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[29-Nov-2017 09:09:16 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[29-Nov-2017 09:11:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:11:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[29-Nov-2017 09:11:05 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[29-Nov-2017 09:11:08 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:11:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[29-Nov-2017 09:11:08 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[30-Nov-2017 02:32:37 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[30-Nov-2017 02:32:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 9
+[30-Nov-2017 02:32:38 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/users/proses_login.php on line 11
+[01-Mar-2018 11:17:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/msatrioc/public_html/eztolearn/users/proses_registrasi.php on line 31

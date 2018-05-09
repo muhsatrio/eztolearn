@@ -1,0 +1,165 @@
+.bodyUser {
+	background-color: #b6d7a8;
+}
+.header1 {
+	font-size: 45px;
+}
+.tabel {
+	width: 100%;
+	border: none;
+	/*vertical-align: center;*/
+}
+.kotakRegis {
+	background-color: #a2c4c9;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	padding-left: 100px;
+}
+.kotakLogin {
+	background-color: #ffd966;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.kotakMateri {
+	background-color: #ea9999;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.kotakSoal {
+	background-color: #ffe599;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.kotakKuis {
+	background-color: #d5a6bd;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.kotakVideo {
+	background-color: #999999;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.kotakUtama {
+	background-color: #b4a7d6;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.kotakTanya {
+	background-color: #fbd4f9;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.pemisah {
+	width: 10px;
+}
+.isian {
+	width: 100%;
+}
+.spasiAtas {
+	margin-top: 20px;
+}
+.spasiBawah {
+	margin-bottom: 20px;
+}
+.spasiKiri {
+	margin-left: 20px;
+}
+.spasiKanan {
+	margin-right: 20px;
+}
+.spasiKecilKanan {
+	margin-right: 20px;
+}
+.ruangMateri {
+	background-color: #ffffff;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.nopadding {
+   padding: 0 !important;
+   /*margin: 0 !important;*/
+}
+.menu {
+	background-color: #cccccc;
+	margin-bottom: 2px;
+}
+.spasi {
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.garis {
+	border: solid 1px;
+}
+.editProfiles {
+	display: none;
+}
+.logout {
+	display: none;
+}
+.infoAkun {
+	display: none;
+}
+.areaMateri1 {
+	display: none;
+}
+.areaMateri2 {
+	display: none;
+}
+.areaMateri3 {
+	display: none;
+}
+.areaMateri4 {
+	display: none;
+}
+.areaMateri5 {
+	display: none;
+}
+.areaMateri6 {
+	display: none;
+}
+.areaMateri7 {
+	display: none;
+}
+.areaMateri8 {
+	display: none;
+}
+.areaMateri9 {
+	display: none;
+}
+.areaMateri10 {
+	display: none;
+}
+
+.ruangVideo2 {
+	display: none;
+}
+.ruangVideo3 {
+	display: none;
+}
+.ruangVideo4 {
+	display: none;
+}
+.ruangSoal {
+	background-color: #e06666;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+}
+.ruangKuis {
+	background-color: #ffffff;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 5px;	
+}
+.ruangVideo {
+	background-color: #ffffff;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	padding: 10px;	
+}
+.linkLogo {
+	font-size: 40px;
+}

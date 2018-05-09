@@ -1,0 +1,20 @@
+[29-Nov-2017 08:45:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 08:45:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/admin/soal.php on line 11
+[29-Nov-2017 08:45:00 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/admin/soal.php on line 54
+[29-Nov-2017 09:05:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:05:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/admin/form_soal.php on line 38
+[29-Nov-2017 09:05:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/admin/form_soal.php on line 39
+[29-Nov-2017 09:07:08 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:07:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/admin/soal.php on line 11
+[29-Nov-2017 09:07:08 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/admin/soal.php on line 54
+[29-Nov-2017 09:07:15 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:07:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/admin/form_soal.php on line 38
+[29-Nov-2017 09:07:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/admin/form_soal.php on line 39
+[29-Nov-2017 09:10:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:10:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/admin/proses_form_soal.php on line 23
+[29-Nov-2017 09:10:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:10:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/admin/soal.php on line 11
+[29-Nov-2017 09:10:48 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/admin/soal.php on line 54
+[29-Nov-2017 09:10:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/msatrioc/public_html/eztolearn/lib/koneksi.php on line 8
+[29-Nov-2017 09:10:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/msatrioc/public_html/eztolearn/admin/soal.php on line 11
+[29-Nov-2017 09:10:56 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/msatrioc/public_html/eztolearn/admin/soal.php on line 54
